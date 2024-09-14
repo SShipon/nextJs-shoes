@@ -4,6 +4,7 @@
           "id": "1",
           "name": "Nike Air Max 270",
           "title": "Nike Air Max 270",
+          "price": 120,
           "img": "https://example.com/images/nike-air-max-270.jpg",
           "description": "The Nike Air Max 270 features the biggest heel Air unit yet for a soft, comfortable ride that feels as impossible as it looks."
         },
@@ -11,6 +12,7 @@
           "id": "2",
           "name": "Adidas Ultraboost 21",
           "title": "Adidas Ultraboost 21",
+          "price": 120,
           "img": "https://example.com/images/adidas-ultraboost-21.jpg",
           "description": "The Ultraboost 21 redefines comfort with responsive cushioning and adaptive knit upper for maximum performance on every run."
         },
@@ -18,6 +20,7 @@
           "id": "3",
           "name": "Puma RS-X3 Puzzle",
           "title": "Puma RS-X3 Puzzle",
+          "price": 20,
           "img": "https://example.com/images/puma-rs-x3-puzzle.jpg",
           "description": "Puma RS-X3 Puzzle brings retro design and futuristic vibes together, offering a bold look and premium comfort for streetwear enthusiasts."
         },
@@ -25,6 +28,7 @@
           "id": "4",
           "name": "New Balance 574 Core",
           "title": "New Balance 574 Core",
+          "price": 270,
           "img": "https://example.com/images/new-balance-574-core.jpg",
           "description": "Classic and versatile, the New Balance 574 Core is perfect for casual wear, blending timeless design with modern comfort technology."
         },
@@ -32,6 +36,7 @@
           "id": "5",
           "name": "Asics Gel-Kayano 27",
           "title": "Asics Gel-Kayano 27",
+          "price": 720,
           "img": "https://example.com/images/asics-gel-kayano-27.jpg",
           "description": "Asics Gel-Kayano 27 is engineered for long-distance runners, featuring advanced cushioning and stability for superior performance."
         },
@@ -39,6 +44,7 @@
           "id": "6",
           "name": "Reebok Club C 85",
           "title": "Reebok Club C 85",
+          "price": 700,
           "img": "https://example.com/images/reebok-club-c-85.jpg",
           "description": "The Reebok Club C 85 delivers a vintage vibe with a minimalist design, offering casual style and all-day comfort."
         }
